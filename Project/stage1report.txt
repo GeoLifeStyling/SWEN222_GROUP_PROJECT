@@ -1,10 +1,15 @@
-Title: 		??Crash Bandicarts??
+Title: 		??Crash Bandicarts?? - Sea 2 Summit Rally
 
 Description: 	??Riots have overtaken the area.You the player must drive to safety??
 		Standing in your way is treacherous terrain with multiple obstances and
 		hostile NPCs. Collecting special items will open up new areas making 
 		escape easier.
+		
+		New Idea:
+		Hill Climb Rally Racer. Four Stages of the race (Desert/Woodland/Mountain/Snow), climb to the top with the best 		time to win. Gaining points for time left at each checkpoint along a stage. Upgrading cars to reach further along 		  the stage (potentially unlcok the stage via points). Npc specatators and cars that race the times.
+		Leaderboard with split times and potentially if we have time a ghost racer element(which is your best time races 	         you).
 				
 Library Usage: 	GUI in swing
 		Other basic java libraries eg java.util
+		JUnit - Testing library
 		??others?? //any ideas//
